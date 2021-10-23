@@ -1,0 +1,78 @@
+header{
+
+	background-color:orange;  
+
+
+}
+
+div{
+	position:relative; 
+	width:940px;
+	margin:0;
+}
+
+ nav {
+
+	position:relative;
+	top:-100px;
+	left:600
+
+}
+
+
+
+nav li{
+
+	display: inline;
+	margin:0 0 0 18px;
+	
+}
+nav a{
+ 	
+	;text-transform: uppercase;
+	color:#FFFFFF;
+	font-weight:bold;
+	font-size:30px;
+	text-decoration: none;
+}
+
+.receitas {
+	
+	text-align:center;
+	border-color:#000000; 
+	border-width:1px;
+	border-style:solid;
+	border-height:2px;
+	font-size:30px
+
+}
+nav a:hover{
+	color:#00DDFF;
+
+}
+.receitas:hover{
+	color: #FFC000;
+}
+.receitas:hover{
+	border-color:#FFC000;
+}
+.receitas:active{
+	border-color:#088C19;
+	color: #088C19;
+
+}
+.receitas:hover h2{
+	font-size:40px;
+}
+.receitas:hover h3{
+	font-size:40px;
+}
+.receitas:hover h4{
+	font-size:40px;
+}
+.receitas:hover h5{
+	font-size:40px;
+}
+.receitas:hover h6{
+	font-size:40px;
+}
